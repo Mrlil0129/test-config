@@ -1,0 +1,5 @@
+data:
+  env: configserver-dev
+  user:
+    username: lil
+    password: lil
